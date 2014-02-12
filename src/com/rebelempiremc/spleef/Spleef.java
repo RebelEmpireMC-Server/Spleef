@@ -1,4 +1,7 @@
 package com.rebelempiremc.spleef;
 
-public class Spleef {
+import org.bukkit.plugin.java.JavaPlugin;
+
+public class Spleef extends JavaPlugin {
+
 }
